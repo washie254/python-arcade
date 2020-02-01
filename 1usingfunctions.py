@@ -3,7 +3,7 @@ import arcade
 SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
 
-arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "Sample PINE Game By Raven")
+arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT, "::Raven's Pine Game::")
 
 def draw_pine_tree(x, y):
     """this function draws pine tree at a specific location"""

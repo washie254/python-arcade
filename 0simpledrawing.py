@@ -5,7 +5,7 @@ SCREEN_WIDTH = 600
 SCREEN_HEIGHT = 600
 
 #Open the window, set the title and dimentions (width aand height )
-arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT,"Drawing example")
+arcade.open_window(SCREEN_WIDTH, SCREEN_HEIGHT,"Raven Basic Drawings ")
 
 #set background color to white
 #(r,g,b,a)
